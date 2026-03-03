@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Liliana!
 
-<!--
-**lniedzwiedz/lniedzwiedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love solving algorithmic challenges and experimenting with creative side projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Example Projects
+
+* **File Manager** — 📦 [Repo](https://github.com/AnitaLas/java-file-manager)
+* **Album Manager** — 📦 [Repo](https://github.com/AnitaLas/java-album-manager-hibernate)
+* **Games:**  
+  ❄️ **Save Snowman & Build Snowman** — 📦 [Repo](https://github.com/AnitaLas/website-simpleGames) | 🌐 [Demo](https://anitalas.github.io/website-simpleGames/)  
+  🐭 **Clicker Game** — 📦 [Repo](https://github.com/AnitaLas/website-clickerGame) | 🌐 [Demo](https://anitalas.github.io/website-clickerGame/)  
+  🌀 **Tic Tac Toe** — 📦 [Repo](https://github.com/AnitaLas/WeirdTicTacToeGame) | 🤖 [Demo](https://anitalas.github.io/WeirdTicTacToeGame/)  
+  💣 **Minesweeper – Game Board Creation** — 📦 [Repo](https://github.com/AnitaLas/mwo-minesweeper)  
+
+---
